@@ -1,6 +1,6 @@
 # Ayan Butt — updated GitHub Pages portfolio
 
-Updated from the supplied ML/AI résumé. Includes Urdu **ایان**, a new responsive design, FlyRank experience and case study, five featured projects, education, skills, corrected LinkedIn link, and a downloadable résumé.
+Updated from the supplied ML/AI résumé. Includes Urdu **ایان**, a new responsive design, FlyRank experience and case study, six featured projects, education, skills, corrected LinkedIn link, and a downloadable résumé.
 
 ## Publish
 1. Extract this ZIP.
@@ -16,9 +16,9 @@ Run `python3 -m http.server 8765` in the extracted directory and visit http://lo
 ## Editing
 Content and links: index.html. Styling: style.css. Filters and menu: script.js. Replace the included PDF to update the résumé download.
 
-All presentation assets are served locally. No analytics or tracking. Fonts are Manrope and Noto Nastaliq Urdu, licensed under the SIL Open Font License. Project and credential links are retained from the original source or extracted from the résumé. The airfoil project uses the actual wind-tunnel photograph (Figure 8) and pressure-contour figure (Figure 16) from the public preprint. Figures are reproduced without alteration, credited to Basit et al. (2025), under CC BY 4.0. PINN artwork remains conceptual, not simulation output. FlyRank bars use the résumé’s reported PR-AUC scores and a labeled 0–0.60 scale. The manuscript is described as under review.
+All presentation assets are served locally. No analytics or tracking. Fonts are Manrope and Noto Nastaliq Urdu, licensed under the SIL Open Font License. Project and credential links are retained from the original source or extracted from the résumé. Airfoil, PINN, and FreeCAD visuals are conceptual illustrations, not reported simulation output or client CAD data. The airfoil card links to the public preprint; the manuscript remains under review. FlyRank bars use the résumé’s reported PR-AUC scores and a labeled 0–0.60 scale. The manuscript is described as under review.
 
 Content and links remain available without JavaScript. Project filters and the mobile menu enhance the static HTML when JavaScript is enabled. Desktop/mobile preview checks were not completed before packaging.
 
 ## Visual revision
-The portrait retains its original colors. The Urdu lockup has no explanatory caption. Forest green and cobalt blue form the two-accent palette. The website and bundled résumé use CESAT for the research role. The original uploaded résumé remains unchanged.
+The portrait retains its original colors. The Urdu lockup has no explanatory caption or decorative dot. Forest green is the single accent palette. The website and bundled résumé use CESAT. The FreeCAD AI Training + Expert Review project includes a dedicated CAD filter, assembly illustration, and expandable scope of work.
